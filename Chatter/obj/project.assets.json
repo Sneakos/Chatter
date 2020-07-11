@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Users\\Sneakos\\Desktop\\Temp\\Chatter\\Chatter.csproj",
+      "projectUniqueName": "F:\\Users\\Sneakos\\Desktop\\Programs\\C#\\Chatter\\Chatter\\Chatter.csproj",
       "projectName": "Chatter",
-      "projectPath": "F:\\Users\\Sneakos\\Desktop\\Temp\\Chatter\\Chatter.csproj",
+      "projectPath": "F:\\Users\\Sneakos\\Desktop\\Programs\\C#\\Chatter\\Chatter\\Chatter.csproj",
       "packagesPath": "C:\\Users\\tubaf\\.nuget\\packages\\",
-      "outputPath": "F:\\Users\\Sneakos\\Desktop\\Temp\\Chatter\\obj\\",
+      "outputPath": "F:\\Users\\Sneakos\\Desktop\\Programs\\C#\\Chatter\\Chatter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
