@@ -16,7 +16,9 @@ namespace Chatter
         {
             InitializeComponent();
         }
-        void Change();
-
+        public void Change()
+        {
+            Console.WriteLine("Hey kids");
+        }
     }
 }
