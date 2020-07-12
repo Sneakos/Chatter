@@ -16,6 +16,6 @@ namespace Chatter
         {
             InitializeComponent();
         }
-
+        public void Change();
     }
 }
